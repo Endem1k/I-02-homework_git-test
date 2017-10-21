@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="I-02-homework_git-test-jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/I-02-homework_git-test-jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
